@@ -1,8 +1,1 @@
-clase A
-
-namespace actividad01{
-    public class claseA { 
-        public string foo {get; set;}
-        public string bar {get; set;}
-    }
-}
+Esta es una actividad del master en full stack web development de la asignatura "Metodologia y gestion de proyectos"
